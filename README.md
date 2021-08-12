@@ -12,6 +12,9 @@ Repositorio dedicado al plan de estudios de desarrollo de backend usando tecnolo
 - Clientes API
 - Testing
 - Microservicios
+- Caching
+- Typed Superset
+- Real-Time Communication
 
 ### Prerequisitos
 
@@ -95,3 +98,70 @@ Es una guía para crear software legible, reutilizable y refactorizable que se p
 - Loopback.io
 - egg.js
 - midway
+
+### Bases de datos y ORMs:
+
+- Relational
+    - SQL Server
+    - PostgreSQL
+    - MariaDB
+    - MySQL
+- Cloud Databases
+    - CosmosDB
+    - DynamoDB
+- Search Engines
+    - ElasticSearch
+    - Solr
+    - Sphinx
+- NoSQL
+    - MongoDB
+    - Redis
+    - Apache Cassandra
+    - LiteDB
+    - RavenDB
+    - CouchDB
+
+### Clientes API:    
+- REST
+    - Node-Rest-Client
+    - Axios
+- GraphQL
+    - express-graphql
+    - apollo-server
+
+### Testing    
+
+- Pruebas unitarias, Pruebas de Integración
+    - Jest
+    - Chai
+    - Mocha
+- Pruebas E2E
+    - Selenium
+    - Playwright
+
+### Microservicios
+
+- Message-Broker
+    - RabbitMQ
+    - Apache Kafka
+    - ActiveMQ
+    - Azure Service Bus
+- Message-Bus
+    - Distribus
+    - BusMQ
+
+### Caching
+
+- Node-Cache
+- Distributed Cache
+    - Redis
+    - Memcached
+- Memory Cache    
+
+### Typed Superset
+
+- TypeScript
+
+### Real-Time Communication
+
+- Socket.IO
