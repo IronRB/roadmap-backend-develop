@@ -1,5 +1,4 @@
 # Roadmap backend develop
-[[_TO_]]
 
 ## Introducción
 Repositorio dedicado al plan de estudios de desarrollo de backend usando tecnologías como node js que nos brinda un entorno de ejecución para JavaScript 
@@ -13,6 +12,7 @@ Repositorio dedicado al plan de estudios de desarrollo de backend usando tecnolo
 - Clientes API
 - Testing
 - Microservicios
+- DevOps
 - Caching
 - Typed Superset
 - Real-Time Communication
@@ -102,25 +102,30 @@ Es una guía para crear software legible, reutilizable y refactorizable que se p
 
 ### Bases de datos y ORMs:
 
-- Relational
-    - SQL Server
-    - PostgreSQL
-    - MariaDB
-    - MySQL
-- Cloud Databases
-    - CosmosDB
-    - DynamoDB
-- Search Engines
-    - ElasticSearch
-    - Solr
-    - Sphinx
-- NoSQL
-    - MongoDB
-    - Redis
-    - Apache Cassandra
-    - LiteDB
-    - RavenDB
-    - CouchDB
+- Bases de datos
+    - Relational
+        - SQL Server
+        - PostgreSQL
+        - MariaDB
+        - MySQL
+    - Cloud Databases
+        - CosmosDB
+        - DynamoDB
+    - Search Engines
+        - ElasticSearch
+        - Solr
+        - Sphinx
+    - NoSQL
+        - MongoDB
+        - Redis
+        - Apache Cassandra
+        - LiteDB
+        - RavenDB
+        - CouchDB
+- ORMs        
+    - Sequelize
+    - TypeORM
+    - Mongoose
 
 ### Clientes API:    
 - REST
@@ -150,6 +155,12 @@ Es una guía para crear software legible, reutilizable y refactorizable que se p
 - Message-Bus
     - Distribus
     - BusMQ
+
+### DevOps
+
+- CI y CD
+    - Azure DevOps
+    - Jenkins
 
 ### Caching
 
